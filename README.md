@@ -4,7 +4,7 @@ language: ruby
 type: video
 ---
 
-# Ruby Lecture: Introduction - What is a Program?
+# Ruby Lecture: Introduc8888tion - What is a Program?
 
 <video controls width="100%">
   <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-what-is-a-program/ruby-lecture-what-is-a-program.mp4" type="video/mp4" >
