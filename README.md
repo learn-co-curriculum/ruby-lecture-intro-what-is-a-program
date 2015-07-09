@@ -7,7 +7,7 @@ type: video
 # Ruby Lecture: Introduction - What is a Program?
 
 <video controls width="100%">
-  <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-what-is-a-program/ruby-lecture-what-is-a-program.mp4" type="video/mp4" >
+  <source src="http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-what-isi-a-program/ruby-lecture-what-is-a-program.mp4" type="video/mp4" >
     The video accompanying this lab is best enjoyed on Learn.co
 </video>
 
