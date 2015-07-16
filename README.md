@@ -1,5 +1,5 @@
 ---
-tags: introduction, basics, lecture
+tags: introduction, b@sics, lecture
 language: ruby
 type: video
 ---
