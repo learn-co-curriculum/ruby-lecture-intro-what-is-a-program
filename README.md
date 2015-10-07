@@ -41,7 +41,7 @@ Every word and character in a program has to be valid code for the ruby language
 2. Literal data, things like "Strings" and Numbers 1,2.
 3. Barewords you define and create, things like variables and methods.
 
-Anything that isn't one of those is invalid and the Ruby interpreter will throw an error. 
+Anything that isn't one of those is invalid and will make the Ruby interpreter  throw an error. 
 
 Let's say you ran a program, and saw the following output (pay attention to the last line):
 
