@@ -6,6 +6,7 @@
 * Distinguish between interpreted and compiled programs.
 * How to run a Ruby program in your terminal.
 * List and describe the words that compose code: keywords, barewords, and data.
+* Understand and develop code structure in 'pseudocode'.
 * Identify when and why errors occur in programming.
 
 <iframe width="960" height="720" src="https://www.youtube.com/embed/P1cUm7BokaQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
@@ -59,3 +60,5 @@ That last line, `lib/a_ruby_program.rb:23:in '<main>': undefined local variable 
 We'll soon learn all about reading error messages.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-lecture-intro-what-is-a-program'>What is a Program?</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-lecture-intro-what-is-a-program'>What is a Program? </a> on Learn.co and start learning to code for free.</p>
