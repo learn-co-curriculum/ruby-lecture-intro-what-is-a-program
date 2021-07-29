@@ -8,10 +8,6 @@
 * List and describe the words that compose code: keywords, barewords, and data.
 * Identify when and why errors occur in programming.
 
-<iframe width="960" height="720" src="https://www.youtube.com/embed/P1cUm7BokaQ?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-[MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-what-is-a-program/ruby-lecture-what-is-a-program.mp4)
-
 ### What's a Program?
 
 All programs are just files on your computer filled with text. That text has a special syntax we call code. The programming language you're using defines the syntax of the code you are allowed to write. Programs are converted to [machine code](https://en.wikipedia.org/wiki/Machine_code) so that the computer can understand it.
@@ -57,5 +53,3 @@ lib/a_ruby_program.rb:23:in `<main>': undefined local variable or method `see' f
 That last line, `lib/a_ruby_program.rb:23:in '<main>': undefined local variable or method 'see' for main:Object (NameError)` is telling you that there was an error caused by an unrecognized word in the source of our program, more specifically on line 23.
 
 We'll soon learn all about reading error messages.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-lecture-intro-what-is-a-program'>What is a Program?</a> on Learn.co and start learning to code for free.</p>
