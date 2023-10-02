@@ -8,7 +8,7 @@
 - List and describe the words that compose code: keywords, barewords, and data.
 - Identify when and why errors occur in programming.
 
-### What's a Program?
+## What's a Program?
 
 All programs are just files on your computer filled with text. That text has a
 special syntax we call code. The programming language you're using defines the
@@ -16,7 +16,7 @@ syntax of the code you are allowed to write. Programs are converted to [machine
 code](https://en.wikipedia.org/wiki/Machine_code) so that the computer can
 understand it.
 
-### Interpreted vs Compiled
+## Interpreted vs Compiled
 
 Depending on the programming language you're using, it will either be a
 [compiled language](http://en.wikipedia.org/wiki/Compiled_language) or an
@@ -25,7 +25,7 @@ Compiled programs will first be converted to machine code and then you will be
 able to run the program. Interpreted languages will be interpreted and converted
 to machine code at run time.
 
-### Running a Ruby Program
+## Running a Ruby Program
 
 Once you have a Ruby program as a file, you can run it through the Ruby
 interpreter to execute it. Your Ruby interpreter is accessible via the `ruby`
@@ -40,9 +40,9 @@ ruby 2.2.2p95 (2015-04-13 revision 50295) [x86_64-darwin14]
 ```
 
 As an example, to run a Ruby program that was stored in `some-program.rb` you
-would simply type: `ruby some-program.rb`. 
+would simply type: `ruby some-program.rb`.
 
-### Words in a Program
+## Words in a Program
 
 Every word and character in a program has to be valid code for the Ruby
 language. Basically, every word can be one of three possible things:
@@ -52,7 +52,7 @@ language. Basically, every word can be one of three possible things:
 3. Barewords you define and create, things like variables and methods.
 
 Anything that isn't one of those is invalid and the Ruby interpreter will throw
-an error. 
+an error.
 
 Let's say you ran a program, and saw the following output (pay attention to the
 last line):
